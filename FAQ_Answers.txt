@@ -1,0 +1,9 @@
+Machine Learning is an art to make machines learn.
+By learning and practicing Machine Learning techniques you can get a job as ML engineer.
+Learn about data analysis, data visualization and machine learning models, Practice it on projects, And Done!
+A DS does data cleaning, data analysis, data visualiation and predictions using machine learning.
+ANS How much salary a data scientist gets ?
+ANS What is unique part of this training ?
+ANS What is the fees of this training ?
+ANS How can i pay the fees of this training?
+ANS What is method of delivery of this training?
